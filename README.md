@@ -3,7 +3,7 @@ Tunable IR based proximity sensor with a digital output
 
 <ul>
 <li>Autodesk Eagle .brd and .sch files included with all non-standard libs</li>
-<li>Sample Arduino Code also included</li>
+<li>Sample Arduino code also for tuning and testing included</li>
 <li>Potentiometer used to adjust the range</li>
 <li>Detection range of about 9cm (3.5 in)</li>
 </ul>
